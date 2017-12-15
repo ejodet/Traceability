@@ -4,7 +4,7 @@ sample node app for traceability testing purpose aabbccddd
 maj4 avec pre-traceability-feature
 maj5 pour test migration
 maj 6
-maj 7
+maj 7 ddfdfdfdf
 maj 8
 maj 9 (vers issue #9)
 maj dans branche pr3
