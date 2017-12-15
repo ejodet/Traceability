@@ -10,3 +10,4 @@ maj 9 (vers issue #9)
 maj dans branche pr3
 maj pour ref à postériori à la PR
 maj pour cross-user testing
+testons la traceabilité
